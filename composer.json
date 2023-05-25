@@ -9,7 +9,7 @@
             "name": "Vlad Filimon",
             "email": "vlad_filimon@yahoo.com"
         }
-    ]
+    ],
     "require": {
         "php": "^8.0"
     }
