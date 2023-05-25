@@ -1,0 +1,13 @@
+{
+    "name": "vladfilimon/acl-entitis-bundles",
+    "type": "library",
+    "keywords": [
+        "acl"
+    ],
+    "authors": [
+        {
+            "name": "Vlad Filimon",
+            "email": vlad_filimon@yahoo.com"
+        }
+    ]
+}
